@@ -22,3 +22,5 @@ module.exports = {
     {value: 'misc',       name: 'misc:      Something else entirely'}
   ]
 };
+
+const pi = 3.14;
